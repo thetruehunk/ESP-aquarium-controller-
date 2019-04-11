@@ -1,0 +1,18 @@
+
+
+
+{
+    "ESSID": "ap-02.estonian.dyndns.org",
+    "PASSWORD": "w5mU5xhzlaJKosFSlBtfk",
+    "relay_1_pin": "14",
+    "relay_2_pin": "12",
+    "relay_3_pin": "13",
+    "relay_4_pin": "6",
+    "time_zone": "3",
+    "light_relay_start": ["10", "30"],
+    "light_relay_stop": ["21", "00"],
+    "filter_relay_start": "9",
+    "filter_relay_stop": "14",
+    "compressor_relay_start": "9",
+    "compressor_relay_stop": "21"
+}
